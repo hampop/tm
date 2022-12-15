@@ -1,0 +1,12 @@
+{
+  "dinosar": {
+    "category": "neutral",
+    "subtitle": "subtitles.dinosar",
+    "sounds": [
+      {
+        "name": "tm:y2mate.is-dinosaur-music-stegosaurus-valley-cci66kspjoa-160k-1657003094557.ogg",
+        "stream": false
+      }
+    ]
+  }
+}
