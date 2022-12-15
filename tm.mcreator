@@ -1,0 +1,83 @@
+{
+  "mod_elements": [
+    {
+      "name": "Tm",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tm"
+    },
+    {
+      "name": "Ttmmdis",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ttmmdis"
+    },
+    {
+      "name": "Tmdim1",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tmdim_1",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Wqwqw",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wqwqw"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "dinosar",
+      "files": [
+        "y2mate.is-dinosaur-music-stegosaurus-valley-cci66kspjoa-160k-1657003094557.ogg"
+      ],
+      "category": "neutral",
+      "subtitle": "hi there"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.dinosar": "hi there",
+      "biome.tm.tm": "Tm",
+      "item.tm.tmdim_1": "Tmdim 1 Portal Igniter",
+      "biome.tm.ttmmdis": "Tm",
+      "biome.t_m.tm": "Tm",
+      "biome.tm.wqwqw": "Wqwqw"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tm",
+    "modName": "T M",
+    "version": "1.0.0",
+    "author": "nisar, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.tm",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
